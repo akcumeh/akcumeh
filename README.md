@@ -3,7 +3,7 @@
 - 💪🏽 Currently, I can use **HTML5**, **CSS3**, basic **JavaScript** and basic **Python**.
 - 🌱 I’m currently learning **Web Development** (specifically, **Node.JS (Express.JS)** and **React.JS**), **Data Science with Python**, and **Japanese**.
 - 💞️ I’m happy to collaborate on **open source** or anything else I can be of help with, although I'm still a learner! So if you need a frontend developer on anything that is dear to your heart right now, you can...
-- 📫 Reach me via **[e-mail](akcumeh@gmail.com)** or **[Telegram](https://t.me/yarnandmk)**.
+- 📫 Reach me via **[e-mail](mailto:akcumeh@gmail.com)** or **[Telegram](https://t.me/yarnandmk)**.
 
 <!---
 akcumeh/akcumeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
