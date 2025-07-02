@@ -1,7 +1,7 @@
 ## About Me
 - 👋 Hi there, I’m Angel.
 - 👀 I’m interested in coding, crochet, cooking, anime and gaming.
-- 💪🏽 Currently, I can use **CSS3** (+ Bootstrap / TailwindCSS), **JS** (+ jQuery), **React.JS**, **Node.JS** (Express.JS), and **Python**.
+- 💪🏽 Currently, I can use **CSS3** (+ Bootstrap / TailwindCSS), **JS** (+ jQuery), **React.JS**, **Node.JS** (Express.JS), **MySQL**, **Python** & RESTful APIs.
 - 💪🏽 I am a web developer, software engineer, data scientist / machine learning engineer.
 - 💪🏽 I have a good understanding of responsive & accessible website design, data structures & algorithms, and data science concepts.
 - 🌱 I’m currently learning **TypeScript** and **Japanese**.
